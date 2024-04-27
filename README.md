@@ -1,4 +1,4 @@
-# Simple Data Locations
+# Sample Data Locations
 
 A list of repos that have sample data
 
