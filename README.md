@@ -28,10 +28,14 @@ Everything from a Cobol app to Terraform IaC.
 3. Clone or download the repositories you are interested in.
 4. Follow the instructions provided in each repository to get started.
 
-## Contributing
-
-If you have any sample data or repositories that you would like to add to this collection, please feel free to submit a pull request.
-
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the Apache License. See the [LICENSE](LICENSE) file for details.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request or open an issue to improve the project.
+
+## Contact
+
+Created by [Richard Lewis](https://github.com/gogorichie) - feel free to contact me!
