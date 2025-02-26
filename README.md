@@ -30,7 +30,7 @@ Everything from a Cobol app to Terraform IaC.
 
 ## License
 
-This project is licensed under the Apache License. See the [LICENSE](LICENSE) file for details.
+This project is free and unencumbered software released into the public domain. Please take a look at the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
